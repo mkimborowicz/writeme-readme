@@ -24,7 +24,7 @@ ${data.description}
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#how to contribute)
+- [Contributing](#howtocontribute)
 - [Questions](#questions)
 - [License](#license)
 
@@ -43,7 +43,9 @@ ${data.contributing}
 ## Questions
 
 If you have questions or to report issues please contact me:
+
 Email: ${data.email} 
+
 Github: github.com/${data.github}
 
 ## License
