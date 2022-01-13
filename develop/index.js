@@ -26,18 +26,13 @@ const questions = [
       },
       {
         type: "input",
-        message: "How do you report issues with this project?",
-        name: "issues",
-      },
-      {
-        type: "input",
         message: "How would another developer make contributions to this project?",
         name: "contributing",
       },
       {
         type: "rawlist",
         message: "Which license would you like to include with your project?",
-        choices: ['Apache-2.0', 'BSD-3-Clause', 'BSD-2-Clause', 'gpl-license', 'lgpl-license','MIT', 'MPL-2.0', 'CDDL-1.0', 'EPL-2.0'],
+        choices: ['Apache_2.0', 'BSD_3--Clause', 'BSD_2--Clause','MIT', 'MPL_2.0', 'CDDL_1.0', 'EPL_2.0', 'Boost_1.0'],
         name: "license",
       },
       {
